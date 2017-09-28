@@ -3,10 +3,11 @@ from random import randint
 from time import sleep
 keyboard = Controller()
 while True:
+    keyboard.press("w")
     keyboard.press("a")
     sleep(randint(1, 5))
     keyboard.release("a")
-    keyboard.press("w")
+    sleep(randint(1, 3))
     keyboard.press("d")
     sleep(randint(1, 3))
     keyboard.release("w")
