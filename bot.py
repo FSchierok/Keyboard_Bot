@@ -21,4 +21,8 @@ while True:
     keyboard.press(Key.enter)
     sleep(0.1 * randint(2, 4))
     keyboard.release(Key.enter)
+    sleep(randint(2, 4))
+    keyboard.press(Key.enter)
+    sleep(0.1 * randint(2, 4))
+    keyboard.release(Key.enter)
     sleep(randint(1, 4))
