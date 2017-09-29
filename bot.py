@@ -26,5 +26,5 @@ while True:
     Keyboard.press(keyboard.Key.enter)
     sleep(uniform(0.2, 0.4))
     Keyboard.release(keyboard.Key.enter)
-    sleep(uniform(1, 4))
+    sleep(uniform(1, 3))
     Mouse.click(mouse.Button.right)
