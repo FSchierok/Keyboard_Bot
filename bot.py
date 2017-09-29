@@ -3,6 +3,8 @@ from random import uniform
 from time import sleep
 Keyboard = keyboard.Controller()
 Mouse = mouse.Controller()
+
+
 while True:
     Keyboard.press("w")
     Keyboard.press("a")
