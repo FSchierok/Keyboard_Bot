@@ -6,8 +6,8 @@ Mouse = mouse.Controller()
 
 with open("pos.txt", "r") as f:
     pos = f.readlines()
-pos1 = pos[0].split(str="<>")
-pos2 = pos[1].split(str="<>")
+pos1 = pos[0].split("<>")
+pos2 = pos[1].split("<>")
 while True:
     Keyboard.press("w")
     Keyboard.press("a")
