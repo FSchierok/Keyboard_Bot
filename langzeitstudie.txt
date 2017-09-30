@@ -3,3 +3,9 @@
   keine Accelerator Crate erhalten
   mindestens eine andere Crate erhalten
   aktueller Preis Ac Crate: 2 key - 3 Ac
+
+30.09.2017_2:
+  1h Laufzeit ohne Probleme
+  0 Accelerator Crates erhalten
+  1 andere Crates erhalten
+  aktueller Preis Ac Crate: 2 key - 3 Ac
