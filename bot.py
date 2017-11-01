@@ -29,5 +29,3 @@ while True:
     Mouse.position = (int(pos2[0]), int(pos2[1]))
     Mouse.click(mouse.Button.left)
     sleep(uniform(0.2, 0.4))
-    Mouse.click(mouse.Button.right)
-    sleep(uniform(0.1, 0.5))
